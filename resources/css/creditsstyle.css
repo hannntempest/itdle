@@ -1,0 +1,16 @@
+body {
+    background-image: url(../assets/background2.png);
+}
+
+#group {
+    color: orange;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    color: #293241;
+    font-size: 24px;
+    font-weight: bold;
+}

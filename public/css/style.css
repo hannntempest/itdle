@@ -1,0 +1,27 @@
+body {
+    background-image: url(../assets/background2.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#project-name {
+    color: yellow;
+    font-size: 30px;
+}
+
+#percobaan {
+    margin-left: 25px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#kataTebakan {
+    margin-left: 25px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#ITdle {
+    text-align: center;
+}

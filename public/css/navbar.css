@@ -1,0 +1,62 @@
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+}
+
+#logo {
+    text-align: center;
+}
+
+.logo {
+    height: 80px;
+    width: 240px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+.navbar a.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 36px;
+}
+
+.navbar a.profile {
+    font-size: 1.2em;
+    position: absolute;
+    top: 10px;
+    right: 225px;
+}
+
+.navbar a.credits {
+    font-size: 1.2em;
+    position: absolute;
+    top: 10px;
+    right: 125px;
+}
+
+.navbar a.logout {
+    font-size: 1.2em;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+}

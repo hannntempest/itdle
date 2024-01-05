@@ -1,0 +1,10 @@
+body {
+    background-image: url(../assets/background2.png);
+}
+
+#group {
+    color: green;
+    font-size: 44px;
+    text-align: center;
+    font-weight: bold;
+}
